@@ -1,5 +1,2 @@
 streamlit
-pycaret
-json
-pandas
-plotly
+pycaret==3.3.2
