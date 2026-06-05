@@ -1,2 +1,5 @@
 streamlit
 pycaret
+json
+pandas
+plotly
